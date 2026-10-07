@@ -60,4 +60,4 @@ We're always open to **collaboration, partnerships, and innovative ideas**.
 
 Check out our projects, experiment with our tools, and follow **ADbornSolutions** as we continue building the future with technology.
 
-**Made with ❤️ by ADbornSolutions**
+**Made with ❤️ by AdbornSolutions**
